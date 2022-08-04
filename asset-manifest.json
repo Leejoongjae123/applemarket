@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/applemarket/static/css/main.cd7cc7bd.css",
-    "main.js": "/applemarket/static/js/main.24365062.js",
+    "main.js": "/applemarket/static/js/main.b887e717.js",
     "static/js/787.84350f4e.chunk.js": "/applemarket/static/js/787.84350f4e.chunk.js",
     "index.html": "/applemarket/index.html",
     "main.cd7cc7bd.css.map": "/applemarket/static/css/main.cd7cc7bd.css.map",
-    "main.24365062.js.map": "/applemarket/static/js/main.24365062.js.map",
+    "main.b887e717.js.map": "/applemarket/static/js/main.b887e717.js.map",
     "787.84350f4e.chunk.js.map": "/applemarket/static/js/787.84350f4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd7cc7bd.css",
-    "static/js/main.24365062.js"
+    "static/js/main.b887e717.js"
   ]
 }
